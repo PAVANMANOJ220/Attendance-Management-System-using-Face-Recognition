@@ -1,4 +1,3 @@
-@@ -1,38 +1,38 @@
 
 # Attendance Management System using Face Recognition
 
